@@ -1,0 +1,18 @@
+name = "TestMPI"
+uuid = "3514f531-7c09-496d-91aa-eb9b4fa80656"
+authors = ["Albert de Montserrat <albert.de.montserrat@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+ImplicitGlobalGrid = "4d7a3746-15be-11ea-1130-334b0c4f5fa0"
+JustPIC = "10dc771f-8528-4cd9-9d3b-b21b2e693339"
+JustRelax = "34418575-392d-4e26-8c6d-96b0910afa06"
+MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
+
+[compat]
+CairoMakie = "0.12.16"
+ImplicitGlobalGrid = "0.15.3"
+JustPIC = "0.5.4"
+JustRelax = "0.4.0"
+MPI = "0.20.22"
